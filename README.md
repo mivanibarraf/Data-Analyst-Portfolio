@@ -5,8 +5,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 <h2>Contents</h2>
 
-### 1. [Netflix TV Shows and Movies Analysis.](https://github.com/mivanibarraf/Data-Analyst-Portfolio/tree/main/NetflixAnalysis)
-<br>Code: [netflix-data-analysis.ipynb](https://github.com/mivanibarraf/Data-Analyst-Portfolio/blob/main/NetflixAnalysis/netflix-data-analysis.ipynb)
+### 1. [Netflix TV Shows and Movies Analysis.](https://github.com/mivanibarraf/Data-Analyst-Portfolio/tree/main/Netflix%20Analysis)
+<br>Code: [netflix-data-analysis.ipynb](https://github.com/mivanibarraf/Data-Analyst-Portfolio/blob/main/Netflix%20Analysis/netflix-data-analysis.ipynb)
 <br>**Description:** The dataset contains 8807 unique IDs for TV Shows and Movies inside Netflix library. With this data frame I loaded data from csv file, check for null values, fill missing values, analyzing country releases and ratio of content.
 <br>**Skills:** Data Loading, Data Cleaning, Visualizations.
 <br>**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
